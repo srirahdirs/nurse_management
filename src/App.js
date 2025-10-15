@@ -267,11 +267,13 @@ const App = () => {
                 {/* Header */}
                 <div className="header">
                     <div className="header-content">
-                        <h1>
-                            <span className="header-icon">🏥</span>
-                            Nurse Management System
-                        </h1>
-                        <p>Manage nurse records efficiently with modern interface</p>
+                        <div>
+                            <h1>
+                                <span className="header-icon">🏥</span>
+                                Nurse Management System
+                            </h1>
+                            <p>Manage and organize nurse records efficiently</p>
+                        </div>
                     </div>
                 </div>
 
